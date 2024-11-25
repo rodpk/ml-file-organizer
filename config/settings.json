@@ -1,0 +1,5 @@
+{
+    "data_dir": "/path/to/images",
+    "to_organize_dir": "/path/to/images/to-organize",
+    "model_path": "../models/image_organizer_model.pkl"
+}
