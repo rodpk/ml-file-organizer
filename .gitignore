@@ -53,3 +53,13 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
+
+## data trained
+*.pkl
+
+## images
+
+/example/images/*
+/example/to-organize/*
+/models/*
