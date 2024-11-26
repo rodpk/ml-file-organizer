@@ -1,5 +1,5 @@
 {
-    "data_dir": "/path/to/images",
-    "to_organize_dir": "/path/to/images/to-organize",
-    "model_path": "../models/image_organizer_model.pkl"
+    "DATASET_PATH": "example/images",
+    "TO_ORGANIZE_PATH": "example/to-organize",
+    "MODEL_PATH": "models/image_organizer_model.pkl"
 }
