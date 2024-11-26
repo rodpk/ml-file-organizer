@@ -7,8 +7,8 @@ The **ML File Organizer** is a machine learning-powered script that organizes yo
 ### First stage
 - [ ] Setup logic to ignore non-image files
 - [ ] Tune training to improve accuracy
-- [ ] Setup minimal accuracy before moving images
-  - [ ] If not confident enough, move it to a separate folder
+- [x] Setup minimal accuracy before moving images
+  - [x] If not confident enough, move it to a separate folder
 
 ### Second stage
 - [ ] Create a GUI for easier use
