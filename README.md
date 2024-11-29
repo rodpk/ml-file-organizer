@@ -1,4 +1,4 @@
-# ML File Organizer
+# ML Image Organizer
 
 The **ML File Organizer** is a machine learning-powered script that organizes your image files into categories based on their content. Using a pre-trained model, the application predicts the category of each image and automatically moves it into the corresponding folder.
 
